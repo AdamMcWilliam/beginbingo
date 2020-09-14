@@ -1,0 +1,2 @@
+# beginbingo
+ json for squares
