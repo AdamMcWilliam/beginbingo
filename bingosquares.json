@@ -4,11 +4,11 @@
 		}, {
 			"square": "plays !damn"
 		}, {
-			"square": "very cool kanye"
+			"square": "'very cool kanye'"
 		}, {
 			"square": "Weird rant"
 		}, {
-			"square": "mm mm mm"
+			"square": "'mm mm mm'"
 		}, {
 			"square": "mouths along to a sound"
 		}, {
@@ -20,7 +20,7 @@
 		}, {
 			"square": "uses the mouse"
 		}, {
-			"square": "best sound we got"
+			"square": "'best sound we got'"
 		}, {
 			"square": "Gets raided"
 		}, {
@@ -62,12 +62,12 @@
 		}, {
 			"square": "Otamatone dies"
 		}, {
-			"square": "Im not allow to X"
+			"square": "'Im not allow to X'"
 		}, {
-			"square": "Im in a cult"
+			"square": "'Im in a cult'"
 		}, {
 			"square": "Pre-recorded rumours"
 		}
 
 	]
-};
+}
